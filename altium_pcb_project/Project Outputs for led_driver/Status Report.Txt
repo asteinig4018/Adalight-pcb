@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [led_driver.PrjPcb]
+   Generated File[led_driver-RoundHoles.TXT]
+   Generated File[led_driver-SlotHoles.TXT]
+   Generated File[led_driver.LDP]
+   Generated File[led_driver.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:01:58 PM On 11/7/2021

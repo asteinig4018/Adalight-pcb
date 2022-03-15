@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=J4-2
+Change Component Footprint: Designator=J4 Old Footprint=FP-RASM722PTR13X-MFG New Footprint=CUI-PJ-102B_V
+Change Component Comment : Designator=J4 Old Comment=RASM722PTR13X New Comment=PJ-102B
+Change Managed Component Library Link : Designator=J4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DC3F80D6-CBAE-4BDF-815B-047410342CDC New ItemGUID=18CCD6EC-B242-4941-8F32-F59CD4FFB4A4 Old RevisionGUID=EF530CD6-A832-493B-B931-44ECBE170B77 New RevisionGUID=4AE1D774-0661-441D-994E-5DBE3B0AC1D8
+Change component parameters: Designator = "J4" ("J4"); Footprint = "FP-RASM722PTR13X-MFG"; UniqueID = "\KZZGJEDO" ("\KZZGJEDO")
+Change component parameters (AddParameter): Name = "Brand"; Value = "CUI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "DCPowerJack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.cui.com/product/resource/pj-102b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.03, 04/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "PolybutyleneTerephthalate(PBT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inside Contact Diameter"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "100MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUIInc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.cui.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25Cto+85C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outside Contact Diameter"; Value = "6.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Body 14.4 x 9 mm, Height 11 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "PJ-102B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "Jacks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "DCPowerConnectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Room: Name=led_driver
